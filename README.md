@@ -20,6 +20,7 @@
 
 ### note
 > this is the git flow tip
+---
 Which branch should be used for bringing forth production releases?
    - develop
    - master
